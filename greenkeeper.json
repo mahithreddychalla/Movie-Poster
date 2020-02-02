@@ -1,0 +1,9 @@
+{
+  "groups": {
+    "default": {
+      "packages": [
+        "Movie-Poster/package.json"
+      ]
+    }
+  }
+}
