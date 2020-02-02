@@ -1,0 +1,8 @@
+.navbar, .navbar-expand-lg, .navbar-dark{
+    background: rgb(42,41,43);
+    background: radial-gradient(circle, rgba(42,41,43,1) 0%, rgba(89,105,127,1) 96%, rgba(148,187,233,1) 100%);}
+
+.btn,bg-dark button{
+    color: white;
+    
+}
